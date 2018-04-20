@@ -1,0 +1,2 @@
+# Content-Based-Authorship-Detection-using-TF-IDF-Scores-and-Cosine-Similarity
+The goal of this assignment is to build an authorship detection system that provides a ranked list of possible authors for a document whose authorship is unknown. The system uses word uni-grams and TF-IDF (Term Frequency Inverse Document Frequency) to calculate the weights of each of the entities in the attribute vector. The attribute vector is build for each of the authors to determine the authorship based on the similarity between pre-computed attribute vectors.
